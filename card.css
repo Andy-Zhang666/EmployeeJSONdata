@@ -1,0 +1,14 @@
+div.employee {border-width:thick;
+border-style: solid;
+max-width: 550px;
+margin: 8px;
+padding: 8px;}
+
+.general {float:left;}
+img {width:125px;height:125px;float:left;clear:left;margin-right: 10px}
+span.eName {margin-bottom: 6px;
+    float:left;}
+span.title {margin-left: 8px;}
+span.department {margin-left: 8px;}
+span.email {margin-left: 8px;}
+.bio {;margin-left: 8px;}
